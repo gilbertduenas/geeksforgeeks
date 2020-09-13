@@ -19,6 +19,3 @@ def check_paren(s):
         return 'Balanced'
     else:
         return 'Unbalanced'
-        
-        
-        
